@@ -5,10 +5,9 @@
 #include <limits.h>
 #include <queue>
 #include <cmath>
-#include <iomanip>  // Include this header for setprecision
+#include <iomanip>  
 using namespace std;
 
-// Structure to represent a station
 struct Station {
     string stName;
     string code;
@@ -20,7 +19,7 @@ struct Station {
 
 struct Edge {
     string destination;
-    double distance;  // Changed from float to double
+    double distance; 
     string line;  
 };
 
@@ -70,7 +69,6 @@ void initializeFareChart() {
     fareChart[{"Yerwada", "Kalyani Nagar"}] = 35.0;
     fareChart[{"Kalyani Nagar", "Ramwadi"}] = 35.0;
 
-    // Bidirectional Connections
     for (auto& entry : fareChart) {
         fareChart[{entry.first.second, entry.first.first}] = entry.second;
     }
