@@ -1,0 +1,267 @@
+![Metro Map](Map_2.jpg)
+
+[
+    {
+        "name": "PCMC Bhavan", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7965, 
+            "latitude": 18.6315
+        }
+    },
+    {
+        "name": "Sant Tukaram Nagar", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7967, 
+            "latitude": 18.6358
+        }
+    },
+    {
+        "name": "Nashik Phata", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7953, 
+            "latitude": 18.6415
+        }
+    },
+    {
+        "name": "Kasarwadi", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7882, 
+            "latitude": 18.6483
+        }
+    },
+    {
+        "name": "Phugewadi", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7796, 
+            "latitude": 18.6546
+        }
+    },
+    {
+        "name": "Dapodi", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7973, 
+            "latitude": 18.6148
+        }
+    },
+    {
+        "name": "Bopodi", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7991, 
+            "latitude": 18.6170
+        }
+    },
+    {
+        "name": "Khadki", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8260, 
+            "latitude": 18.6102
+        }
+    },
+    {
+        "name": "Range Hills", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8335, 
+            "latitude": 18.6165
+        }
+    },
+    {
+        "name": "Shivaji Nagar", 
+        "details": {
+            "line": ["Purple Line", "Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8348, 
+            "latitude": 18.5190
+        }
+    },
+    {
+        "name": "Civil Court", 
+        "details": {
+            "line": ["Purple Line", "Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8530, 
+            "latitude": 18.5221
+        }
+    },
+    {
+        "name": "Kasba Peth", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8643, 
+            "latitude": 18.5214
+        }
+    },
+    {
+        "name": "Mandai", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8724, 
+            "latitude": 18.5248
+        }
+    },
+    {
+        "name": "Swargate", 
+        "details": {
+            "line": ["Purple Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8773, 
+            "latitude": 18.5222
+        }
+    },
+    {
+        "name": "Vanaz", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7850, 
+            "latitude": 18.5185
+        }
+    },
+    {
+        "name": "Anand Nagar", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7921, 
+            "latitude": 18.5187
+        }
+    },
+    {
+        "name": "Ideal Colony", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7945, 
+            "latitude": 18.5201
+        }
+    },
+    {
+        "name": "Nal Stop", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.7998, 
+            "latitude": 18.5229
+        }
+    },
+    {
+        "name": "Garware College", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8041, 
+            "latitude": 18.5255
+        }
+    },
+    {
+        "name": "Deccan Gymkhana", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8220, 
+            "latitude": 18.5202
+        }
+    },
+    {
+        "name": "Chhatrapati Sambhaji Udyan", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8265, 
+            "latitude": 18.5237
+        }
+    },
+    {
+        "name": "PMC Bhavan", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8352, 
+            "latitude": 18.5249
+        }
+    },
+    {
+        "name": "Mangalwar Peth", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8470, 
+            "latitude": 18.5312
+        }
+    },
+    {
+        "name": "Pune Railway Station", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8645, 
+            "latitude": 18.5165
+        }
+    },
+    {
+        "name": "Ruby Hall Clinic", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8722, 
+            "latitude": 18.5150
+        }
+    },
+    {
+        "name": "Bund Garden", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Underground", 
+            "longitude": 73.8843, 
+            "latitude": 18.5201
+        }
+    },
+    {
+        "name": "Yerwada", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8906, 
+            "latitude": 18.5489
+        }
+    },
+    {
+        "name": "Kalyani Nagar", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8907, 
+            "latitude": 18.5657
+        }
+    },
+    {
+        "name": "Ramwadi", 
+        "details": {
+            "line": ["Aqua Line"], 
+            "layout": "Elevated", 
+            "longitude": 73.8886, 
+            "latitude": 18.5765
+        }
+    }
+]
+
+
